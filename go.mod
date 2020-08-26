@@ -1,3 +1,3 @@
-module github.com/omakeno/bash-overwriter
+module github.com/omakeno/bashoverwriter
 
 go 1.15
